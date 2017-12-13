@@ -24,73 +24,65 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="product">
 		<div class="container">
 			<div class="spec ">
-				<h3>Travel</h3>
+				<h3>Aturan</h3>
 				<div class="ser-t">
 					<b></b>
 					<span><i></i></span>
 					<b class="line"></b>
 				</div>
-			</div>
-			<div class="col-md-12">
-				<h4>Pencarian</h4>
-				<div class="form-group form-group-sm col-md-12" style="padding-top: 10px">
-					<label>Kata Kunci</label>
-					<div>
-						<input type="" value="Batu" placeholder="Kata Kunci Pencarian" class="form-control " name="">
-					</div>
-				</div>
-				<div class="form-group form-group-sm col-md-6" style="padding-top: 10px">
-					<label>Dari</label>
-					<select class="form-control">
-						<option>Pilih Kota</option>
-						<option ="">Malang</option>
-						<option selected="">Surabaya</option>
-						<option>Bali</option>
-						<option>Yogyakarta</option>
-					</select>
-				</div>
-				<div class="form-group form-group-sm col-md-6" style="padding-top: 10px">
-					<label>Menuju</label>
-					<select class="form-control">
-						<option>Pilih Kota</option>
-						<option selected="">Malang</option>
-						<option>Surabaya</option>
-						<option>Bali</option>
-						<option>Yogyakarta</option>
-					</select>
-				</div>
-				<button class="btn pull-right btn-primary">Cari</button>
-			</div>
-			<div class="col-md-12">
-				<hr>
-				<div class="row">
-					<div class="col-md-12 panel col-m">
-						<h3>Saalim Travel</h3>
-						<hr style="border: 1px solid #B2B2B2">
-						<div class="col-md-6">
-							<p align="justify">Saalim Travel adalah provider layanan jasa transportasi yang selalu siap memenuhi kebutuhan perjalanan Anda. Dengan Armada terbaru : All New Avanza & Xenia. Kenyamanan dan ketepatan waktu sampai kota tujuan adalah prioritas utama Saalim Travel.</p>
-						</div>
-						<div class="col-md-6">
-							<p><strong>Alamat :</strong>&nbsp;Pertokokoan Kav 27, Jl&nbsp;Ronggolawe, Bunul – Malang<br>
-							<strong>Telepon :</strong> <a href="tel:+6282257570770">0822.5757.0770</a>&nbsp;/ &nbsp;<a href="tel:081333375656">081.3333.7.5656</a> /&nbsp;<a href="sms:+6285755559449">0857.5555.9449 (sms only)<br>
-							<strong>W</strong></a><strong>hatsapp :</strong> 082.334.735.333</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12 panel col-m">
-						<h3>Astro Travel</h3>
-						<hr style="border: 1px solid #B2B2B2">
-						<div class="col-md-6">
-							<p align="justify">Armada terbaik menggunakan mobil Grand New Innova dengan harga terjangkau.</p>
-						</div>
-						<div class="col-md-6">
-							<p><strong>Alamat :</strong> Taman Landungsari Indah D/28, Kec Dau, Malang.<br><strong>Telepon :</strong> <a href="tel:+6282257570770">0822.1231.0770</a>&nbsp;/ &nbsp;<a href="tel:081333375656">081.3333.7.1236</a> /&nbsp;<a href="sms:+6285755559449">0857.1231.9449 (sms only)<br>
-							<strong>W</strong></a><strong>hatsapp :</strong> 082.334.123.321</p>
-						</div>
+				<div class="col-md-12" style="padding-top: 20px">
+					<div class="form-group">
+						<textarea class="form-control" readonly rows="30">
+1.	Penyewa wajib mengambil barang sesuai dengan tanggal pemesanan dan mengembalikan barang sesuai dengan tanggal pengembalian.
+2.	Penyewa Wajib Mengecek semua perlengkapan yang disewa sebelum meninggalkan Lokasi persewaan Camping.in Aja!. Kami tidak menerima komplain dalam bentuk apapun apabila Penyewa telah meninggalkan lokasi Persewaan.
+3.	Peralatan/perlengkapan persewaan dalam kondisi baik dan utuh, Penyewa wajib merawat dan menjaganya dengan baik. Hal-hal yang perlu diperhatikan adalah sbb:
+	•	Jauhkan barang dari api, kecuali kompor dan nisting.
+	•	Dilarang Merokok dan Memasak di dalam Tenda.
+	•	Dilarang mendirikan tenda terlalu dekat api unggun.
+	•	Dilarang Mendirikan tenda di lahan yang berbatu dan terdapat benda tajam lainya (patahan ranting, pecahan batu tajam, dll).
+	•	Membawa barang dengan baik dan benar.
+	•	Dll.
+4.	Jam Kerja kami adalah Pukul 09.00 – 21.00 WIB. (ON TIME) Jika terjadi keterlambatan pengembalian, maka di anggap memperpanjang sewa (tidak ada toleransi waktu. Jam 21.00 tepat kami TUTUP).
+5.	Saat ibadah shalat, Toko TUTUP / ISTIRAHAT sebentar. Harap semua pelanggan bisa menyesuaikan dan menghormati.
+6.	Khusus hari Jum’at pukul 11.30 – 13.00 WIB TUTUP untuk melaksanakan IBADAH JUM’AT.
+7.	Kami tidak bisa melayani di luar jam kerja.
+8.	Telpon, SMS, BBM, WA hanya untuk menanyakan stok barang dan informasi barang. Booking atau pemesanan atau pengubahan pesanan pada nota harus langsung Ke Basecamp dan membawa nota asli.
+9.	Basecamp Camping.in Aja! bukanlah tempat penitipan barang. Pelanggan dilarang menitipkan barang bawaan apa pun.
+10.	Basecamp Camping.in Aja! setiap hari BUKA, kecuali libur hari raya atau ada kepentingan lainnya.
+11.	Apabila terjadi kerusakan atau hilang terhadap peralatan yang disewa, penyewa wajib bertanggung jawab sepenuhnya untuk memperbaiki atau mengganti peralatan yang sama/serupa. 
+12.	Persiapkanlah kegiatan Anda dengan baik (manajemen waktu, manajemen perjalanan dan manajemen perlengkapan) karena kegiatan outdoor adalah kegiatan yang berisiko tinggi dan susah untuk diprediksi.
+13.	Ketentuan tersebut di atas dapat berubah sesuai dengan situasi dan kondisi.
+14.	Point-point tersebut di atas merupakan kesepakatan yang harus ditaati bagi penyewa.
+
+					</textarea>
 					</div>
 				</div>
 			</div>
+			<div class="spec ">
+				<h3>Syarat dan Ketentuan yang Berlaku</h3>
+				<div class="ser-t">
+					<b></b>
+					<span><i></i></span>
+					<b class="line"></b>
+				</div>
+				<div class="col-md-12" style="padding-top: 20px">
+					<div class="form-group">
+						<textarea class="form-control" readonly rows="15">
+1.	Perhitungan Sewa di Camping.in Aja! adalah Per hari.
+2.	Saat pengambilan perlengkapan/barang, setiap penyewa wajib meninggalkan kartu identitas  berupa : Kartu Pelajar / Kartu Identitas Anak (KIA) / KTM (minimal angkatan diatas 2015) / E-KTP / SIM, yang masih berlaku dan berdomisili di Surabaya atau bisa juga menggunakan jaminan uang senilai harga jual barang yang di sewa. 
+3.	Agenda dan penjadwalan perlengkapan persewaan hanya diperuntukan bagi penyewa/pelanggan yang telah membayar Dana Pertama (DP).
+4.	Besarnya Dana Pertama (DP) adalah Minimal 25% dari seluruh Dana Sewa. Untuk pemesanan yang bersifat besar (dana sewa diatas 3jt), minimal DP 50%.
+5.	Bawalah nota Anda saat pengambilan maupun pengembalian perlengkapan / barang.
+6.	Saat pengambilan perlengkapan/barang, setiap penyewa WAJIB melunasi seluruh dana sewa.
+7.	Kami tidak melayani pembatalan pesanan, pengurangan jumlah pesanan, ganti pesanan atau cancel, maupun ganti hari pengambilan setelah memasuki H-1 dan hari H dari jadwal pengambilan pada nota (walaupun sudah di DP). Pembatalan akan dikenakan cas sebesar 25% dari total dana sewa.
+8.	Barang persewaan yang sudah dibawa keluar dari area persewaan Camping.in Aja! sudah dianggap sewa.
+9.	Ketentuan tersebut di atas dapat berubah sesuai dengan situasi dan kondisi.
+10.	Point-point tersebut di atas merupakan kesepakatan yang harus di taati bagi penyewa.
+					</textarea>
+					</div>
+				</div>
+			</div>
+			
 		</div>
 	</div>
 <!--footer-->
